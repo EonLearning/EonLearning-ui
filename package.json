@@ -1,7 +1,7 @@
 {
   "name": "EonLearning",
   "version": "0.1.0",
-  "homepage": "https://getskills.dexignzone.com/react/demo",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@asseinfo/react-kanban": "^2.2.0",
